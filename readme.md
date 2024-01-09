@@ -11,7 +11,7 @@ Este projeto implementa um chatbot usando o modelo de linguagem da OpenAI. Ele p
 Certifique-se de ter o Python instalado. Clone o repositório e instale as dependências usando o seguinte comando:
 
 ```bash
-git clone https://github.com/kensleyw/chatbot-llm-openai
+git clone https://github.com/kensleyw/chatbot_llm_openai
 cd chatbot-llm-openai
 pip install -r requirements.txt
 ```
